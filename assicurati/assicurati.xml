@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assicurati>
+	<assicurato>
+		<nome>Matteo</nome>
+		<cognome>Scarcella</cognome>
+		<dataDiNascita>2000-04-21</dataDiNascita>>
+		<codiceFiscale>MSCMSCMSC</codiceFiscale>
+		<numeroSinistri>0</numeroSinistri>
+	</assicurato>
+	<assicurato>
+		<nome>Valeria</nome>
+		<cognome>Tortosa</cognome>
+		<dataDiNascita>2001-02-23</dataDiNascita>>
+		<codiceFiscale>VRTVRTVRT</codiceFiscale>
+		<numeroSinistri>0</numeroSinistri>
+	</assicurato>
+</assicurati>
